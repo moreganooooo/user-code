@@ -1,0 +1,31 @@
+{
+  "typeAcquisition": {
+    "enable": true
+  },
+  "references": [
+    {
+      "path": ".wix/types/blky8/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/cuxjr/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/dqylo/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/pp4rk/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/sw8ve/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/masterPage/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/backend/jsconfig.json"
+    },
+    {
+      "path": ".wix/types/public/jsconfig.json"
+    }
+  ]
+}
